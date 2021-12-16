@@ -148,7 +148,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document8]
-DocumentPath=..\libs\TpGiven\TpGivenLib.SchLib
+DocumentPath=..\..\TP3\Eurocircuit_6C.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -164,7 +164,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document9]
-DocumentPath=..\..\TP3\Eurocircuit_6C.PcbDoc
+DocumentPath=..\libs\TpGiven\Project Outputs for TpGiven\TpGiven.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
